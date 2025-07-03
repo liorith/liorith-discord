@@ -40,7 +40,7 @@ Wir legen großen Wert auf Respekt, Freundlichkeit und eine angenehme Atmosphär
 - Bei technischen Problemen oder Fragen steht dir unser Support-Team im Kanal #support zur Verfügung.
 - Formuliere deine Fragen klar und detailliert, damit dir schnell und gezielt geholfen werden kann.
 - Bitte habe Geduld - Support erfolgt ehrenamtlich und kann manchmal dauern.
-- Mehrfache Nachfragen oder Spamming des Support-Kanals sind nicht erwünscht
+- Mehrfache Nachfragen oder Spamming des Support-Kanals sind nicht erwünscht.
 
 ## ----------------------------------------
 
