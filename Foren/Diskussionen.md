@@ -44,4 +44,4 @@ Damit unsere Forenbereiche konstruktiv, angenehm und lesbar bleiben, gelten hier
 
 **Danke, dass du Diskussionen mit Leben füllst – und dabei respektvoll bleibst.**
 
--# Zuletzt aktualisiert: 1. Juli 2025
+-# Zuletzt aktualisiert: 03. Juli 2025

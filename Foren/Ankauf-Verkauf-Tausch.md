@@ -58,4 +58,4 @@ Info: Zustand, Versand, Besonderheiten, etc.
 **Danke, dass du fair, freundlich & vorsichtig handelst!
 So bleibt es für alle sicher & angenehm.**
 
--# Zuletzt aktualisiert: 1. Juli 2025
+-# Zuletzt aktualisiert: 03. Juli 2025

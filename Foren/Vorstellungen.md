@@ -40,4 +40,4 @@ Damit sich alle wohlfühlen, gelten hier ein paar einfache, aber wichtige Regeln
 **Wir freuen uns, mehr über dich zu erfahren – und dich hier willkommen zu heißen.**  
 **Zeig uns, wer du bist!**
 
--# Zuletzt aktualisiert: 1. Juli 2025
+-# Zuletzt aktualisiert: 03. Juli 2025
