@@ -3,6 +3,12 @@
 
 ## ----------------------------------------
 
+## :arrow_white: Allgemein
+- https://discord.com/channels/1388255392496095303/@home: -> Server Anleitung
+- https://discord.com/channels/1388255392496095303/customize-community: -> Rollenauswahl
+
+## ----------------------------------------
+
 ## :arrow_blue: Ressourcen
 - https://discord.com/channels/1388255392496095303/1388259934654693497: -> Hier bist du gerade.
 - https://discord.com/channels/1388255392496095303/1388256235203330071: -> Unsere verbindlichen Serverregeln – bitte unbedingt lesen!
