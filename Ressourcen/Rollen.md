@@ -140,4 +140,4 @@
 
 ## ----------------------------------------
 
--# Zuletzt aktualisiert: 03 Juli 2025
+-# Zuletzt aktualisiert: 03. Juli 2025

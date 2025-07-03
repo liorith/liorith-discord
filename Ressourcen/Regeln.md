@@ -98,4 +98,4 @@ In schweren Fällen behalten wir uns weitergehende Maßnahmen vor.
 
 ## ----------------------------------------
 
--# Zuletzt aktualisiert: 1. Juli 2025
+-# Zuletzt aktualisiert: 03. Juli 2025
