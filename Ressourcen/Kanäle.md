@@ -4,8 +4,8 @@
 ## ----------------------------------------
 
 ## :arrow_white: Allgemein
-- https://discord.com/channels/1388255392496095303/@home: -> Server Anleitung
-- https://discord.com/channels/1388255392496095303/customize-community: -> Rollenauswahl
+- <id:guide>  -> Server Anleitung
+- <id:customize>  -> Rollenauswahl
 
 ## ----------------------------------------
 
